@@ -1,0 +1,3 @@
+# Practice-Repo
+This repo contains all the codes I wrote/will write for my own practice in C, Java and Python.
+I'm currently focusing on Python, tho will def learn and practice other languages...
